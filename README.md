@@ -1,2 +1,2 @@
-# Sales_analisys
-A Python pure base application to sales analisys by csv, generating statistics reports an data visualization
+# Python Projects
+A collections of Python projects from study and personal aprimoration.
